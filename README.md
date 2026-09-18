@@ -4,8 +4,12 @@
   <b>Python Full Stack Developer | Django | FastAPI | REST APIs | SQL</b>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/5ae26d3d-d7ba-41a3-af63-b897002d901b" alt="Azad Hussain" width="100%"/>
+</p> -->
+
+<p align="center">
+  <img src="NAYA_URL_YAHAN" alt="Azad Hussain - Python Full Stack Developer" width="100%"/>
 </p>
 
 <p align="center">
