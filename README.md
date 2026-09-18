@@ -130,10 +130,9 @@
 # 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azadhussain92&theme=tokyo-night&hide_border=true&area=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azadhussain92&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
+
 
 
 
@@ -157,8 +156,6 @@ Full-stack e-commerce application built with Python and Django.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
-
-
 ### 🍔 Food Ordering Web Application
 
 Django-based food ordering platform with user and vendor functionality.
@@ -166,8 +163,6 @@ Django-based food ordering platform with user and vendor functionality.
 **Tech:** Python • Django • HTML • CSS • JavaScript • SQL
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
-
-
 
 ### 🚆 Train Management REST API
 
