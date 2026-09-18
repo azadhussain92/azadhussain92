@@ -1,8 +1,8 @@
 # Hi 👋 I'm Azad Hussain
 
-<p align="center">
+<!-- <p align="center">
   <img src="YOUR_IMAGE_URL" width="160" alt="Azad Hussain"/>
-</p>
+</p> -->
 
 <p align="center">
   <b>Python Full Stack Developer | Django | FastAPI | REST APIs | SQL</b>
@@ -178,26 +178,27 @@ REST API project for managing train information using FastAPI/Django REST concep
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
 
-
 # 💬 Developer Quote
 
 > "Great apps are built on strong backends. I love building them."
 
-
-
 # 📚 Currently Learning
 
-Python
-   ↓
-Django
-   ↓
-REST APIs
-   ↓
-FastAPI
-   ↓
-Database & SQL
-   ↓
-Full Stack Development
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+⬇️
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+⬇️
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+⬇️
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+⬇️
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Building%20Full%20Stack%20Applications-24283B?style=for-the-badge&labelColor=1F2335&color=7AA2F7"/>
+</p>
+
 
 
 # 🎯 2026 Goals
