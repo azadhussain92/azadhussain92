@@ -33,6 +33,25 @@
 ⚡ Fun fact: I enjoy turning ideas into working applications with code.
 
 
+# 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/azadhussain92">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/azad_hussain_33">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@hussain-033">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="mailto:azadhussain1719@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 # 💻 Tech Stack:
 
 ### 🐍 Programming & Backend
@@ -71,11 +90,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
-### 💻 Other Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -88,26 +102,6 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=azadhussain92&theme=tokyonight&hide_border=true"/>
 </p>
-
-# 🌐 Connect With Me
-<p align="left">
-<a href="https://github.com/azadhussain92">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/azad_hussain_33">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@hussain-033">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="mailto:azadhussain1719@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
 
 ### 📈 Contribution Activity
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/azadhussain92/azadhussain92/output/github-contribution-grid-snake.svg)
