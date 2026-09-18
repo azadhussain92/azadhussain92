@@ -1,9 +1,12 @@
 # Hi 👋 I'm Azad Hussain
 
-<p align="center">
+<!-- <p align="center">
   <img src="<img width="1500" height="420" alt="banner" src="https://github.com/user-attachments/assets/5ae26d3d-d7ba-41a3-af63-b897002d901b" />
 " width="160" alt="Azad Hussain"/>
-</p> 
+</p>  -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ae26d3d-d7ba-41a3-af63-b897002d901b" alt="Azad Hussain" width="100%"/>
+</p>
 
 <p align="center">
   <b>Python Full Stack Developer | Django | FastAPI | REST APIs | SQL</b>
