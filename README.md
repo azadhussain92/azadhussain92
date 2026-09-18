@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Azad Hussain
 
 <p align="center">
-  <img src="<img width="2268" height="3102" alt="IMG_1657 JPG" src="https://github.com/user-attachments/assets/466e8c03-55b5-4e85-afc0-41eda5653802" />
+  <img src="<img width="2268" height="3102" alt="IMG_1657 JPG" src=""C:\Users\azadh\OneDrive\Pictures\IMG_1657.JPG.jpeg" />
 " width="180" alt="Azad Hussain"/>
 </p>
 
