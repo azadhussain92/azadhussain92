@@ -1,8 +1,8 @@
 # Hi  👋 I'm Azad Hussain
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/azadhussain92/azadhussain92/main/profile.jpg" width="180" alt="Azad Hussain"/>
-</p>
+   <p align="center">
+     <img width="180" alt="Azad Hussain" src="https://github.com/user-attachments/assets/xxxxxxxx" />
+   </p>
 
 # 💫 About Me:
 
@@ -12,6 +12,10 @@
 🌱 I’m currently learning FastAPI, REST APIs & advanced Django<br>
 💬 Ask me about Python, Django, FastAPI, SQL & Web Development<br>
 ⚡ Fun fact: I enjoy turning ideas into working applications with code
+
+## 🌐 Socials:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github\&logoColor=white)](https://github.com/azadhussain92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/azad_hussain_33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azad-hussain-6a628b228) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://www.youtube.com/@hussain-033) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:azadhussain1719@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -23,9 +27,7 @@
 ![](https://streak-stats.demolab.com/?user=azadhussain92\&theme=tokyonight\&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=azadhussain92\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
-## 🌐 Socials:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github\&logoColor=white)](https://github.com/azadhussain92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://www.instagram.com/azad_hussain_33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/azad-hussain-6a628b228) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://www.youtube.com/@hussain-033) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:azadhussain1719@gmail.com)
 
 ## 🏆 GitHub Trophies
 
