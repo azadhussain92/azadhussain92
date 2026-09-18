@@ -1,8 +1,9 @@
 # Hi 👋 I'm Azad Hussain
 
-<!-- <p align="center">
-  <img src="YOUR_IMAGE_URL" width="160" alt="Azad Hussain"/>
-</p> -->
+<p align="center">
+  <img src="<img width="1500" height="420" alt="banner" src="https://github.com/user-attachments/assets/5ae26d3d-d7ba-41a3-af63-b897002d901b" />
+" width="160" alt="Azad Hussain"/>
+</p> 
 
 <p align="center">
   <b>Python Full Stack Developer | Django | FastAPI | REST APIs | SQL</b>
