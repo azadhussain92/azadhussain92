@@ -1,7 +1,7 @@
 # Hi  👋 I'm Azad Hussain
 
    <p align="center">
-     <img width="180" alt="Azad Hussain" src="https://github.com/user-attachments/assets/xxxxxxxx" />
+     <img src="profile.jpg" width="180" alt="Azad Hussain"/>
    </p>
 
 # 💫 About Me:
