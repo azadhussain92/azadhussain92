@@ -1,8 +1,5 @@
 # Hi  👋 I'm Azad Hussain
 
-   <p align="center">
-     <img src="profile.jpg" width="180" alt="Azad Hussain"/>
-   </p>
 
 # 💫 About Me:
 
@@ -35,7 +32,7 @@
 
 ### 💬 My Developer Quote
 
-> "Turning ideas into working applications with code."
+> "Great apps are built on strong backends. I love building them."
 
 ### 🔝 Top Contributed Repo
 
