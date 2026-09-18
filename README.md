@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Azad Hussain
 
 <p align="center">
-  <img src="<img width="2268" height="3102" alt="IMG_1657 JPG" src=""C:\Users\azadh\OneDrive\Pictures\IMG_1657.JPG.jpeg" />
-" width="180" alt="Azad Hussain"/>
+  <img src="https://raw.githubusercontent.com/azadhussain92/azadhussain92/main/assets/profile.jpg" width="180" alt="Azad Hussain"/>
 </p>
 
 # 💫 About Me:
