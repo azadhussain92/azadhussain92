@@ -127,9 +127,12 @@
 </p>
 
 
+
 # 📈 Contribution Activity
 
-Hello, this is my contribution activity section.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azadhussain92&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&area_color=24283b&area=true&hide_border=true" width="100%" alt="Azad Hussain Contribution Activity"/>
+</p>
 
 
 
