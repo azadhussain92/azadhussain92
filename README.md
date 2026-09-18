@@ -9,7 +9,8 @@
 </p> -->
 
 <p align="center">
-  <img src="NAYA_URL_YAHAN" alt="Azad Hussain - Python Full Stack Developer" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/040f4932-6a5a-4cc3-93a8-3e5dd0dad860" />
+" alt="Azad Hussain - Python Full Stack Developer" width="100%"/>
 </p>
 
 <p align="center">
