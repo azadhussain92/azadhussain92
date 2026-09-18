@@ -1,6 +1,7 @@
 # Hi  👋 I'm Azad Hussain
 
 
+
 # 💫 About Me:
 
 👨‍💻 I’m currently working on Python Full Stack projects<br>
@@ -36,10 +37,8 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=azadhussain92\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+### 📌 Featured Project
 
----
-
-[![](https://komarev.com/ghpvc/?username=azadhussain92\&icon=0\&color=1)](https://visitcount.itsvg.in)
+[![Featured Repo](https://github-readme-stats.shion.dev/api/pin/?username=azadhussain92&repo=REPO_NAME&theme=tokyonight)](https://github.com/azadhussain92/REPO_NAME)
 
 <!-- Proudly created with GPRM -->
