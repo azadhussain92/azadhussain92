@@ -127,14 +127,11 @@
 </p>
 
 
-
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azadhussain92&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&area_color=24283b&area=true&hide_border=true" width="100%" alt="Azad Hussain Contribution Activity"/>
+  <img src="https://raw.githubusercontent.com/azadhussain92/azadhussain92/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-
 
 
 
