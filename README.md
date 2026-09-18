@@ -128,21 +128,17 @@
 
 
 
-# 📈 Contribution Activity
+### 📈 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/azadhussain92/azadhussain92/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-
-# 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=azadhussain92&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=azadhussain92&theme=radical" alt="GitHub Trophies" />
 </p>
-
 
 
 # 📌 Featured Projects
