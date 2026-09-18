@@ -20,25 +20,19 @@
   </a>
 </p>
 
----
+
 
 # 💫 About Me
 
 👨‍💻 I’m a Python Full Stack Developer focused on building web applications and backend systems.
-
 🚀 I work with Python, Django, FastAPI, REST APIs and SQL.
-
 🌱 I’m currently improving my skills in FastAPI, REST API development and advanced Django.
-
 💡 I enjoy building practical applications and solving real-world problems through code.
-
 🤝 I’m open to collaborating on Python, Django and FastAPI projects.
-
 💬 Ask me about Python, Django, FastAPI, REST APIs, SQL and Web Development.
-
 ⚡ Fun fact: I enjoy turning ideas into working applications with code.
 
----
+
 
 # 🌐 Connect With Me
 
@@ -66,7 +60,7 @@
 
 </p>
 
----
+
 
 # 💻 Tech Stack
 
@@ -97,7 +91,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
----
+
 
 # 📊 GitHub Analytics
 
@@ -109,7 +103,7 @@
 
 </p>
 
----
+
 
 # 🔥 Contribution Streak
 
@@ -119,7 +113,6 @@
 
 </p>
 
----
 
 # 📈 Contribution Activity
 
@@ -129,7 +122,7 @@
 
 </p>
 
----
+
 
 # 🏆 GitHub Trophies
 
@@ -139,7 +132,7 @@
 
 </p>
 
----
+
 
 # 📌 Featured Projects
 
@@ -151,7 +144,7 @@ Full-stack e-commerce application built with Python and Django.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
----
+
 
 ### 🍔 Food Ordering Web Application
 
@@ -161,7 +154,7 @@ Django-based food ordering platform with user and vendor functionality.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
----
+
 
 ### 🚆 Train Management REST API
 
@@ -171,13 +164,13 @@ REST API project for managing train information using FastAPI/Django REST concep
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
----
+
 
 # 💬 Developer Quote
 
 > "Great apps are built on strong backends. I love building them."
 
----
+
 
 # 📚 Currently Learning
 
@@ -193,9 +186,6 @@ FastAPI
 Database & SQL
    ↓
 Full Stack Development
-```
-
----
 
 # 🎯 2026 Goals
 
@@ -205,8 +195,6 @@ Full Stack Development
 * 🗄️ Strengthen SQL and database skills
 * 🤝 Contribute to open-source projects
 * 💼 Start my career as a Python Full Stack Developer
-
----
 
 # 📊 GitHub Activity
 
@@ -226,17 +214,6 @@ Full Stack Development
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/azadhussain92/azadhussain92/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
 
 <p align="center">
 
