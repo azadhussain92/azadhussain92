@@ -1,24 +1,22 @@
-# 🌌 Hi 👋 I'm Azad Hussain
+# Hi 👋 I'm Azad Hussain
 
 <p align="center">
   <img src="YOUR_IMAGE_URL" width="160" alt="Azad Hussain"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%20Full%20Stack%20Developer-7AA2F7?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-9ECE6A?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-7DCFFF?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <b>Python Full Stack Developer | Django | FastAPI | REST APIs | SQL</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/azadhussain92">
-    <img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=7AA2F7"/>
-  </a>
-  <a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
-    <img src="https://img.shields.io/badge/LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=7AA2F7"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:azadhussain1719@gmail.com">
-    <img src="https://img.shields.io/badge/Email-24283B?style=for-the-badge&logo=gmail&logoColor=F7768E"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -26,40 +24,44 @@
 
 # 💫 About Me
 
-```text
-👨‍💻 Python Full Stack Developer
-🚀 Building web applications and backend systems
-🌱 Currently learning FastAPI, REST APIs & advanced Django
-💡 Interested in scalable backend applications
-🤝 Open to Python, Django & FastAPI collaborations
-💬 Ask me about Python, Django, FastAPI, SQL & Web Development
-⚡ I enjoy turning ideas into working applications with code
-```
+👨‍💻 I’m a Python Full Stack Developer focused on building web applications and backend systems.
+
+🚀 I work with Python, Django, FastAPI, REST APIs and SQL.
+
+🌱 I’m currently improving my skills in FastAPI, REST API development and advanced Django.
+
+💡 I enjoy building practical applications and solving real-world problems through code.
+
+🤝 I’m open to collaborating on Python, Django and FastAPI projects.
+
+💬 Ask me about Python, Django, FastAPI, REST APIs, SQL and Web Development.
+
+⚡ Fun fact: I enjoy turning ideas into working applications with code.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/azadhussain92">
-<img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=7AA2F7"/>
-</a>
-
-<a href="https://www.instagram.com/azad_hussain_33">
-<img src="https://img.shields.io/badge/Instagram-24283B?style=for-the-badge&logo=instagram&logoColor=F7768E"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
-<img src="https://img.shields.io/badge/LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=7AA2F7"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/azad_hussain_33">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@hussain-033">
-<img src="https://img.shields.io/badge/YouTube-24283B?style=for-the-badge&logo=youtube&logoColor=F7768E"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:azadhussain1719@gmail.com">
-<img src="https://img.shields.io/badge/Email-24283B?style=for-the-badge&logo=gmail&logoColor=BB9AF7"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -68,32 +70,32 @@
 
 # 💻 Tech Stack
 
-### 🐍 Programming & Backend
+### 👨‍💻 Programming & Backend
 
-![Python](https://img.shields.io/badge/Python-24283B?style=for-the-badge\&logo=python\&logoColor=7AA2F7)
-![Django](https://img.shields.io/badge/Django-24283B?style=for-the-badge\&logo=django\&logoColor=9ECE6A)
-![FastAPI](https://img.shields.io/badge/FastAPI-24283B?style=for-the-badge\&logo=fastapi\&logoColor=7DCFFF)
-![REST API](https://img.shields.io/badge/REST_API-24283B?style=for-the-badge\&logoColor=7AA2F7)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-24283B?style=for-the-badge\&logo=html5\&logoColor=F7768E)
-![CSS3](https://img.shields.io/badge/CSS3-24283B?style=for-the-badge\&logo=css3\&logoColor=7AA2F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-24283B?style=for-the-badge\&logo=javascript\&logoColor=E0AF68)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-24283B?style=for-the-badge\&logo=bootstrap\&logoColor=BB9AF7)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-24283B?style=for-the-badge\&logo=mysql\&logoColor=7DCFFF)
-![Oracle](https://img.shields.io/badge/Oracle-24283B?style=for-the-badge\&logo=oracle\&logoColor=F7768E)
-![SQL](https://img.shields.io/badge/SQL-24283B?style=for-the-badge\&logoColor=7AA2F7)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-24283B?style=for-the-badge\&logo=git\&logoColor=F7768E)
-![GitHub](https://img.shields.io/badge/GitHub-24283B?style=for-the-badge\&logo=github\&logoColor=7AA2F7)
-![Postman](https://img.shields.io/badge/Postman-24283B?style=for-the-badge\&logo=postman\&logoColor=FF9E64)
-![VS Code](https://img.shields.io/badge/VS_Code-24283B?style=for-the-badge\&logo=visual-studio-code\&logoColor=7AA2F7)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
@@ -101,9 +103,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"/>
+<img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </p>
 
@@ -123,7 +125,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azadhussain92&theme=tokyo-night&hide_border=true&area=true&radius=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azadhussain92&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -141,56 +143,88 @@
 
 # 📌 Featured Projects
 
-<p align="center">
+### 🛒 E-Commerce Web Application
 
-<a href="https://github.com/azadhussain92/REPO_NAME">
+Full-stack e-commerce application built with Python and Django.
 
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=azadhussain92&repo=REPO_NAME&theme=tokyonight&hide_border=true"/>
+**Tech:** Python • Django • HTML • CSS • JavaScript • Bootstrap • SQL
 
-</a>
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
-</p>
+---
+
+### 🍔 Food Ordering Web Application
+
+Django-based food ordering platform with user and vendor functionality.
+
+**Tech:** Python • Django • HTML • CSS • JavaScript • SQL
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
+
+---
+
+### 🚆 Train Management REST API
+
+REST API project for managing train information using FastAPI/Django REST concepts.
+
+**Tech:** Python • FastAPI • REST API • SQL • Postman
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
 ---
 
 # 💬 Developer Quote
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/“Great%20apps%20are%20built%20on%20strong%20backends.”-24283B?style=for-the-badge&labelColor=1F2335&color=7AA2F7"/>
-
-</p>
+> "Great apps are built on strong backends. I love building them."
 
 ---
 
 # 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-7AA2F7?style=for-the-badge&logo=python&logoColor=white"/>
-⬇️
-<img src="https://img.shields.io/badge/Django-9ECE6A?style=for-the-badge&logo=django&logoColor=white"/>
-⬇️
-<img src="https://img.shields.io/badge/REST_API-7DCFFF?style=for-the-badge"/>
-⬇️
-<img src="https://img.shields.io/badge/FastAPI-BB9AF7?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-</p>
+```text
+Python
+   ↓
+Django
+   ↓
+REST APIs
+   ↓
+FastAPI
+   ↓
+Database & SQL
+   ↓
+Full Stack Development
+```
 
 ---
 
 # 🎯 2026 Goals
 
-```text
-┌──────────────────────────────────────────────┐
-│ 🚀 Build production-ready Python projects   │
-│ 🔥 Improve Django & FastAPI expertise       │
-│ 🌐 Build scalable REST APIs                 │
-│ 🗄️ Strengthen SQL & database skills        │
-│ 🤝 Contribute to open-source projects       │
-│ 💼 Start my career as Python Developer      │
-└──────────────────────────────────────────────┘
-```
+* 🚀 Build production-ready Python applications
+* 🔥 Improve Django & FastAPI expertise
+* 🌐 Build scalable REST APIs
+* 🗄️ Strengthen SQL and database skills
+* 🤝 Contribute to open-source projects
+* 💼 Start my career as a Python Full Stack Developer
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=azadhussain92&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -204,11 +238,11 @@
 
 ---
 
-# 👀 Profile Views
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=azadhussain92&label=PROFILE%20VIEWS&color=7AA2F7&style=for-the-badge"/>
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something amazing together 🚀**
 
 </p>
 
@@ -216,10 +250,6 @@
 
 <p align="center">
 
-## 🌌 Thanks for visiting my profile!
-
-### ⭐ Feel free to explore my repositories and projects.
-
-**Let's build something amazing together 🚀**
+<img src="https://komarev.com/ghpvc/?username=azadhussain92&label=Visitors&style=flat-square"/>
 
 </p>
