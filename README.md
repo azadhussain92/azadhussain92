@@ -33,35 +33,6 @@
 ⚡ Fun fact: I enjoy turning ideas into working applications with code.
 
 
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/azadhussain92">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/azad_hussain_33">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@hussain-033">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:azadhussain1719@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-
-
 # 💻 Tech Stack:
 
 ### 🐍 Programming & Backend
@@ -93,8 +64,6 @@
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-
-
 ### 🛠️ Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
@@ -107,38 +76,46 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-
-
 # 📊 GitHub Analytics
 
 <p align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
 </p>
 
 # 🔥 Contribution Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com/?user=azadhussain92&theme=tokyonight&hide_border=true"/>
-
 </p>
 
-### 📈 Contribution Activity
+# 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/azadhussain92">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/azad_hussain_33">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@hussain-033">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="mailto:azadhussain1719@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
+
+### 📈 Contribution Activity
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/azadhussain92/azadhussain92/output/github-contribution-grid-snake.svg)
 
-
-
 # 📌 Featured Projects
-
 ### 🛒 E-Commerce Web Application
-
 Full-stack e-commerce application built with Python and Django.
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
