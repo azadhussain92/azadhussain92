@@ -174,7 +174,6 @@ REST API project for managing train information using FastAPI/Django REST concep
 
 # 📚 Currently Learning
 
-```text
 Python
    ↓
 Django
@@ -204,7 +203,6 @@ Full Stack Development
 
 </p>
 
----
 
 # 👀 Profile Views
 
@@ -222,8 +220,6 @@ Full Stack Development
 **Let's build something amazing together 🚀**
 
 </p>
-
----
 
 <p align="center">
 
