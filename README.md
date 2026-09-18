@@ -186,6 +186,7 @@ Database & SQL
    ↓
 Full Stack Development
 
+
 # 🎯 2026 Goals
 
 * 🚀 Build production-ready Python applications
