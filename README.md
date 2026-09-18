@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5ae26d3d-d7ba-41a3-af63-b897002d901b" alt="Azad Hussain" width="100%"/>
-</p>
+<h1 align="center">Hi 👋 I'm Azad Hussain</h1>
 
 <p align="center">
   <b>Python Full Stack Developer | Django | FastAPI | REST APIs | SQL</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ae26d3d-d7ba-41a3-af63-b897002d901b" alt="Azad Hussain" width="100%"/>
 </p>
 
 <p align="center">
