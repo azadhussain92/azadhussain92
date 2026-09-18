@@ -81,7 +81,7 @@
 ### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=sql\&logoColor=white)
 
 ### 📊 Data & Visualization
@@ -116,8 +116,6 @@
 
 </p>
 
-
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -126,15 +124,10 @@
 
 </p>
 
-
-
 ### 📈 Contribution Activity
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/azadhussain92/azadhussain92/output/github-contribution-grid-snake.svg)
 
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=azadhussain92)
 
 
 # 📌 Featured Projects
