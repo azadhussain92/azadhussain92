@@ -26,6 +26,16 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=azadhussain92\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/azadhussain92/REPO_NAME_1">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=azadhussain92&repo=REPO_NAME_1&theme=tokyonight" alt="Project 1" />
+  </a>
+  <a href="https://github.com/azadhussain92/REPO_NAME_2">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=azadhussain92&repo=REPO_NAME_2&theme=tokyonight" alt="Project 2" />
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 
