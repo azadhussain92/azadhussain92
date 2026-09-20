@@ -1,6 +1,6 @@
 <table>
-<tr>
-<td bgcolor="#161B22">
+
+<td bgcolor="#2B1B47">
 
 <h1 align="center">Hi 👋 I'm Azad Hussain</h1>
 
@@ -203,5 +203,4 @@ REST API project for managing train information using FastAPI/Django REST concep
 </p>
 
 </td>
-</tr>
 </table>
