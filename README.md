@@ -1,8 +1,8 @@
-<div style="background-color:#0D1117; padding:25px; border-radius:12px;">
+<div style="background-color:#6C4AB6; padding:25px; border-radius:12px;">
 <h1 align="center">Hi 👋 I'm Azad Hussain</h1>
 
 <p align="center">
-  <h1 align="center">Python Full Stack Developer</h1>| Django | FastAPI| REST APIs | MY SQL
+  <b>Python Full Stack Developer| Django | FastAPI| REST APIs | MY SQL</b>
 </p>
 
 <!-- <p align="center">
