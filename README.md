@@ -1,4 +1,7 @@
-<div style="background-color:#6C4AB6; padding:25px; border-radius:12px;">
+<table>
+<tr>
+<td bgcolor="#161B22">
+
 <h1 align="center">Hi 👋 I'm Azad Hussain</h1>
 
 <p align="center">
@@ -141,7 +144,6 @@ Django-based food ordering platform with user and vendor functionality.
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
 ### 🚆 Train Management REST API
-
 REST API project for managing train information using FastAPI/Django REST concepts.
 
 ### 🛠️ Tech Stack
@@ -150,12 +152,10 @@ REST API project for managing train information using FastAPI/Django REST concep
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
 
 # 💬 Developer Quote
-
 > "Great apps are built on strong backends. I love building them."
 
 # 📚 Currently Learning
@@ -175,8 +175,6 @@ REST API project for managing train information using FastAPI/Django REST concep
 <img src="https://img.shields.io/badge/Building%20Full%20Stack%20Applications-24283B?style=for-the-badge&labelColor=1F2335&color=7AA2F7"/>
 </p>
 
-
-
 # 🎯 2026 Goals
 
 * 🚀 Build production-ready Python applications
@@ -187,33 +185,23 @@ REST API project for managing train information using FastAPI/Django REST concep
 * 💼 Start my career as a Python Full Stack Developer
 
 # 📊 GitHub Activity
-
 <p align="center">
-
 <img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
 </p>
-
 
 # 👀 Profile Views
-
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=azadhussain92&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
-
-
 <p align="center">
-
 ### ⭐ Thanks for visiting my profile!
-
 **Let's build something amazing together 🚀**
 
 </p>
-
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=azadhussain92&label=Visitors&style=flat-square"/>
-
 </p>
+
+</td>
+</tr>
+</table>
