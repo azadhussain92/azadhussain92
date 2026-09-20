@@ -1,5 +1,5 @@
 <table>
-<td bgcolor="#FF0000">
+<div style="background-color:#ff0000; padding:30px;">
 
 <h1 align="center">Hi 👋 I'm Azad Hussain</h1>
 
@@ -201,7 +201,7 @@ REST API project for managing train information using FastAPI/Django REST concep
 <img src="https://komarev.com/ghpvc/?username=azadhussain92&label=Visitors&style=flat-square"/>
 </p>
 
-</td>
+</div>
 </table>
 
 
