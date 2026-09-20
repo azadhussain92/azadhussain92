@@ -1,4 +1,4 @@
-<table>
+
 
 <td bgcolor="#2B1B47">
 
@@ -203,4 +203,3 @@ REST API project for managing train information using FastAPI/Django REST concep
 </p>
 
 </td>
-</table>
