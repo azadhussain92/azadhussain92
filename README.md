@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋 I'm Azad Hussain</h1>
 
 <p align="center">
-  <h1 align="center">Python Full Stack Developer</h1>
-  | Django | FastAPI| REST APIs | MY SQL
+  <h1 align="center">Python Full Stack Developer</h1>| Django | FastAPI| REST APIs | MY SQL
 </p>
 
 <!-- <p align="center">
