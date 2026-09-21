@@ -25,6 +25,7 @@
 <Header banner (gradient wave)  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3b73b0&height=200&section=header&text=Azad%20Hussain&fontSize=52&fontColor=ffffff&fontAlignY=38" /> <div align="center">
 🚀 Python Full Stack Developer • Backend Developer • Python Developer • API Developer
 <hr>
+  
 Building Web Applications • REST APIs • Backend Systems
 
 <!-- Typing animation -->
