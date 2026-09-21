@@ -36,6 +36,13 @@ Building Web Applications • REST APIs • Backend Systems
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Python+Developer;Backend+Developer;Django+%7C+FastAPI;REST+API+%26+SQL" alt="Typing SVG" />
 </a>
 <br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK-44cc11?style=flat-square&labelColor=555555" />
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-007ec6?style=flat-square&labelColor=555555" />
+<img src="https://img.shields.io/badge/SPECIALIZATION-DJANGO%20%26%20FASTAPI-e8703a?style=flat-square&labelColor=555555" />
+<img src="https://img.shields.io/badge/PYTHON-ADVANCED-dfb317?style=flat-square&labelColor=555555" />
+</div>
 <!-- Badges -->
 <br> <a href="https://github.com/azadhussain92"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:azadhussain1719@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/azad-hussain-6a628b228"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
 
