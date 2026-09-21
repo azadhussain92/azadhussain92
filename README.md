@@ -1,5 +1,5 @@
 
-<div style="background-color:#ff0000; padding:30px;">
+<!-- <div style="background-color:#ff0000; padding:30px;">
 
 <h1 align="center">Hi 👋 I'm Azad Hussain</h1>
 
@@ -10,11 +10,11 @@
   <img src="https://github.com/user-attachments/assets/5ae26d3d-d7ba-41a3-af63-b897002d901b" alt="Azad Hussain" width="100%"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/040f4932-6a5a-4cc3-93a8-3e5dd0dad860" />
-</p>
+</p> --> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/azadhussain92">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -24,9 +24,22 @@
   <a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
+</p> -->
+<!-- Header banner (gradient wave) --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3b73b0&height=200&section=header&text=Azad%20Hussain&fontSize=52&fontColor=ffffff&fontAlignY=38" /> <div align="center">
+🚀 Python Full Stack Developer • Backend Developer • API Developer
+<hr>
 
+Building Web Applications • REST APIs • Backend Systems
 
+<!-- Typing animation --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+%7C+FastAPI+Developer;REST+API+%26+SQL" alt="Typing SVG" /> </a>
+
+<br><br>
+
+<!-- Badges -->
+
+Show Image Show Image Show Image Show Image
+
+<br> <a href="https://github.com/azadhussain92"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:azadhussain1719@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/azad-hussain-6a628b228"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
 
 # 💫 About Me
 
