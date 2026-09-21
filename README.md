@@ -159,8 +159,10 @@ REST API project for managing train information using FastAPI/Django REST concep
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </p>
+
 # 🌐 Connect With Me
-<p align="left">
+
+<p align="center">
 <a href="https://github.com/azadhussain92">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
