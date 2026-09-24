@@ -103,7 +103,7 @@ Building Web Applications • REST APIs • Backend Systems
 </p>
 
 ### 📈 Contribution Activity
-![GitHub Contribution Snake](https://raw.githubusercontent.com/azadhussain92/azadhussain92/output/github-contribution-grid-snake.svg)
+
 
 # 📌 Featured Projects
 ### 🛒 E-Commerce Web Application
