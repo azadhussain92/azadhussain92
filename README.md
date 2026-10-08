@@ -106,8 +106,8 @@ Building Web Applications • REST APIs • Backend Systems
 
 
 # 📌 Featured Projects
-### 🛒 E-Commerce Web Application
-Full-stack e-commerce application built with Python and Django.
+### 🚌 Bus Booking & Reservation System
+Full Stack Bus Booking & Reservation System built with Python and Django.
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
