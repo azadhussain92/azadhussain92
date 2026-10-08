@@ -107,7 +107,7 @@ Building Web Applications • REST APIs • Backend Systems
 
 # 📌 Featured Projects
 ### 🚌 Bus Booking & Reservation System
-Full-Stack Bus Booking & Reservation web application built with Python, Django, MySQL, HTML, CSS, Bootstrap, and JavaScript
+Full-Stack Bus Booking & Reservation Web Application built with Python, Django, MySQL, HTML, CSS, Bootstrap, and JavaScript Features include user authentication, bus search, seat selection, passenger details, booking management, demo payment processing, ticket generation with PDF download
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -135,7 +135,7 @@ Full-Stack Food Ordering Web Application built with Python and Django, featuring
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
 ### 🏥 AI Emergency Response & Hospital Management System
-Full-stack emergency response and hospital management system built with Django, Django REST Framework,SQL, and machine learning for educational emergency-risk classification.
+A Full-Stack Emergency Response and Hospital Management System built with Python, Django, Django REST Framework, SQL, and Machine Learning. The system provides hospital and department management, patient and doctor profiles, emergency request handling, and machine learning-based emergency risk classification to support emergency prioritization.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
