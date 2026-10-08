@@ -107,7 +107,7 @@ Building Web Applications • REST APIs • Backend Systems
 
 # 📌 Featured Projects
 ### 🚌 Bus Booking & Reservation System
-Full Stack Bus Booking & Reservation System built with Python and Django.
+Full-Stack Bus Booking & Reservation web application built with Python, Django, MySQL, HTML, CSS, Bootstrap, and JavaScript
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -121,7 +121,7 @@ Full Stack Bus Booking & Reservation System built with Python and Django.
 
 ### 🍔 Food Ordering Web Application
 
-Django-based food ordering platform with user and vendor functionality.
+Full-Stack Food Ordering Web Application built with Python and Django, featuring customer and vendor functionality. Customers can explore restaurants, browse menus, and place food orders, while vendors can register, manage menu items, and handle orders. The platform includes user authentication, shopping cart functionality, and vendor approval workflows
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -134,12 +134,15 @@ Django-based food ordering platform with user and vendor functionality.
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
 
-### 🚆 Train Management REST API
-REST API project for managing train information using FastAPI/Django REST concepts.
+### 🏥 AI Emergency Response & Hospital Management System
+Full-stack emergency response and hospital management system built with Django, Django REST Framework,SQL, and machine learning for educational emergency-risk classification.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
