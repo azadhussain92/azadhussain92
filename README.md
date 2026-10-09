@@ -132,7 +132,7 @@ Full-Stack Food Ordering Web Application built with Python and Django, featuring
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/REPO_NAME)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/Food-Ordering-Web-Application.git)
 
 ### 🏥 AI Emergency Response & Hospital Management System
 An AI-powered Emergency Response & Hospital Management System built with Python, Django, Django REST Framework, SQL, and Machine Learning. The system provides hospital and department management, patient and doctor profiles, emergency request handling, appointment scheduling, prescription management, and medical billing. It also incorporates machine learning-based emergency risk classification to support emergency prioritization and improve hospital workflow management.
