@@ -88,7 +88,12 @@ Building Web Applications • REST APIs • Backend Systems
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white
+
+### 💻 Tools & Technologies
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,python,django,fastapi,mysql,html,css,js,git,github" />
+</p> 
 
 # 📊 GitHub Analytics
 
@@ -96,12 +101,6 @@ Building Web Applications • REST APIs • Backend Systems
 <img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" height="180"/>
 </p>
-
-
-<!-- <p align="center">
-### 💻 Tools & Technologies
-  <img src="https://skillicons.dev/icons?i=vscode,python,django,fastapi,mysql,html,css,js,git,github" />
-</p> -->
 
 # 🔥 Contribution Streak
 <p align="center">
