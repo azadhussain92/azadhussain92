@@ -103,6 +103,7 @@ Building Web Applications • REST APIs • Backend Systems
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" height="180"/>
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight)
 </p>
 
 # 🔥 Contribution Streak
