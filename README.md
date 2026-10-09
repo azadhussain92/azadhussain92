@@ -92,15 +92,16 @@ Building Web Applications • REST APIs • Backend Systems
 
 # 📊 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p> -->
-### 💻 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,django,fastapi,mysql,html,css,js,git,github" />
 </p>
+
+
+<!-- <p align="center">
+### 💻 Tools & Technologies
+  <img src="https://skillicons.dev/icons?i=vscode,python,django,fastapi,mysql,html,css,js,git,github" />
+</p> -->
 
 # 🔥 Contribution Streak
 <p align="center">
