@@ -147,7 +147,7 @@ An AI-powered Emergency Response & Hospital Management System built with Python,
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/LANDING-PAGE/tree/main/landing)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/AI-Emergency-Response-Hospital-Management-System.git)
 
 
 # 💬 Developer Quote
