@@ -125,7 +125,7 @@ Full-Stack Bus Booking & Reservation Web Application built with Python, Django, 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)]([https://github.com/azadhussain92/REPO_NAME](https://github.com/azadhussain92/Bus-Booking-Reservation-System.git))
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/Bus-Booking-Reservation-System.git)
 
 ### 🍔 Food Ordering Web Application
 
