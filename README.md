@@ -50,14 +50,19 @@ Building Web Applications • REST APIs • Backend Systems
 
 # 💫 About Me
 
-👨‍💻 I’m a Python Full Stack Developer focused on building web applications and backend systems.
-🚀 I work with Python, Django, FastAPI, REST APIs and SQL.
-🌱 I’m currently improving my skills in FastAPI, REST API development and advanced Django.
-💡 I enjoy building practical applications and solving real-world problems through code.
-🤝 I’m open to collaborating on Python, Django and FastAPI projects.
-💬 Ask me about Python, Django, FastAPI, REST APIs, SQL and Web Development.
-⚡ Fun fact: I enjoy turning ideas into working applications with code.
+👨‍💻 Python Full Stack Developer passionate about building web applications and backend systems.
 
+🚀 Skilled in Python, Django, FastAPI, REST APIs, SQL, HTML, CSS, JavaScript, and Bootstrap.
+
+🌱 Currently improving my skills in advanced Django, FastAPI, and REST API development.
+
+💡 Enjoy building practical web applications and solving real-world problems through code.
+
+🤝 Open to collaborating on Python, Django, and FastAPI projects.
+
+💬 Ask me about Python, Django, FastAPI, REST APIs, SQL, and Web Development.
+
+⚡ Fun fact: I enjoy turning ideas into functional web applications.
 # 💻 Technology Stack:
 
 ### 🐍 Programming & Backend
