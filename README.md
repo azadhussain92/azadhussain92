@@ -127,9 +127,9 @@ Full-Stack Bus Booking & Reservation Web Application built with Python, Django, 
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/azadhussain92/Bus-Booking-Reservation-System.git)
 
-### 🍔 Food Ordering Web Application
+### 🍔 Restaurant Management & Food Ordering System
 
-Full-Stack Food Ordering Web Application built with Python and Django, featuring customer and vendor functionality. Customers can explore restaurants, browse menus, and place food orders, while vendors can register, manage menu items, and handle orders. The platform includes user authentication, shopping cart functionality, and vendor approval workflows
+Full-Stack Restaurant Management & Food Ordering System built with Python and Django, featuring customer and vendor functionality. Customers can explore restaurants, browse menus, and place food orders, while vendors can register, manage menu items, and handle orders. The platform includes user authentication, shopping cart functionality, and vendor approval workflows
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
