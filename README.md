@@ -42,7 +42,7 @@ Building Web Applications • REST APIs • Backend Systems
 </div>
 <br>
 
-<!-- <div align="center">
+<div align="center">
 
 <img height="40" src="https://img.shields.io/badge/OPEN%20TO-WORK-44cc11?style=for-the-badge&labelColor=555555" />
 <img height="40" src="https://img.shields.io/badge/FOCUS-BACKEND-007ec6?style=for-the-badge&labelColor=555555" />
@@ -51,44 +51,7 @@ Building Web Applications • REST APIs • Backend Systems
 
 </div>
 <!-- Badges -->
-<!-- <br> <a href="https://github.com/azadhussain92"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:azadhussain1719@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/azad-hussain-6a628b228"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div> --> -->
-<div align="center">
-
-  <img src="https://img.shields.io/badge/OPEN_TO-WORK-00C853?style=for-the-badge&logo=handshake&logoColor=white&labelColor=111827" />
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND-2196F3?style=for-the-badge&logo=server&logoColor=white&labelColor=111827" />
-  <img src="https://img.shields.io/badge/SPECIALIZATION-DJANGO_&_FASTAPI-FF7043?style=for-the-badge&logo=python&logoColor=white&labelColor=111827" />
-  <img src="https://img.shields.io/badge/DATA_ANALYTICS-POWER_BI_&_EXCEL-FBC02D?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=111827" />
-  <img src="https://img.shields.io/badge/PYTHON-ADVANCED-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111827" />
-
-</div>
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://github.com/azadhussain92">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:azadhussain1719@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-<div align="center">
-
-  <h3>💡 Build • Innovate • Analyze • Grow</h3>
-
-  <img src="https://komarev.com/ghpvc/?username=azadhussain92&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
-  <br><br>
-
-  <i>Turning ideas into applications and data into insights.</i>
-
-</div>
+<br> <a href="https://github.com/azadhussain92"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:azadhussain1719@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/azad-hussain-6a628b228"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div> 
 
 # 💫 About Me
 
