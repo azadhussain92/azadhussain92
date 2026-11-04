@@ -35,7 +35,7 @@ Building Web Applications • REST APIs • Backend Systems
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Python+Full+Stack+Developer;Data+Analyst;Backend+Developer;Python+Developer;API+Developer;Django+%7C+FastAPI+%7C+REST+APIs;Python+%7C+SQL+%7C+Power+BI+%7C+Excel" alt="Professional Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Python+Full+Stack+Developer;Data+Analyst;Python+Developer;API+Developer;Django+%7C+FastAPI+%7C+REST+APIs;Python+%7C+SQL+%7C+Power+BI+%7C+Excel" alt="Professional Typing Animation" />
   </a>
 </div>
 <br>
