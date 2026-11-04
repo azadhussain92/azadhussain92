@@ -107,17 +107,20 @@ Building Web Applications • REST APIs • Backend Systems
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 # 🔥 Contribution Streak
+
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=azadhussain92&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=azadhussain92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ### 📈 Contribution Activity
 
