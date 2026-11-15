@@ -1,27 +1,4 @@
 
-<!-- <div style="background-color:#ff0000; padding:30px;">
-<h1 align="center">Hi 👋 I'm Azad Hussain</h1>
-<p align="center">
-  <b>Python Full Stack Developer | Django | FastAPI | REST APIs | MY SQL</b>
-</p>
-<!-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ae26d3d-d7ba-41a3-af63-b897002d901b" alt="Azad Hussain" width="100%"/>
-</p> -->
-<!-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/040f4932-6a5a-4cc3-93a8-3e5dd0dad860" />
-</p> --> 
-<!-- <p align="center">
-  <a href="https://github.com/azadhussain92">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:azadhussain1719@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/azad-hussain-6a628b228">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p> -->
-
 <!-- Header banner (gradient wave) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3b73b0&height=200&section=header&text=Azad%20Hussain&fontSize=52&fontColor=ffffff&fontAlignY=38" />
 <div align="center">
@@ -111,11 +88,13 @@ Building Web Applications • REST APIs • Backend Systems
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p> -->
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 # 🔥 Contribution Streak
