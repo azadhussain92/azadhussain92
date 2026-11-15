@@ -97,7 +97,16 @@ Building Web Applications • REST APIs • Backend Systems
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=azadhussain92&theme=tokyonight&hide_border=true"/>
 </p>
-### 📈 Contribution Activity
+
+📈 Contribution Activity
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=azadhussain92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 # 📌 Featured Projects
