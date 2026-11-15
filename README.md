@@ -99,7 +99,14 @@ Building Web Applications • REST APIs • Backend Systems
 </p>
 
 📈 Contribution Activity
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=azadhussain92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&v=2" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=azadhussain92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" height="180"/>
+</p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=azadhussain92&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
+</p>
 
 # 📌 Featured Projects
 ### 🚌 Bus Booking & Reservation System
