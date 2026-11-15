@@ -98,10 +98,6 @@ Building Web Applications • REST APIs • Backend Systems
 <img src="https://streak-stats.demolab.com/?user=azadhussain92&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azadhussain92&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 
 # 📌 Featured Projects
